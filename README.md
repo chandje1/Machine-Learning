@@ -1,2 +1,2 @@
 # Machine-Learning
-Internship in Machine Learning
+Internships in Machine Learning
