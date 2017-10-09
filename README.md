@@ -1,2 +1,2 @@
 # Machine-Learning
-Projects in Machine Learning
+Internship in Machine Learning
